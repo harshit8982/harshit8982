@@ -34,8 +34,8 @@
      <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
    </a> 
   &emsp;
-      <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+      <a href="https://nodejs.org/en/ target="_blank"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
    &emsp;
    
