@@ -39,7 +39,18 @@
    </a>
    &emsp;
    
-
+> ### AI/ML
+<p align="left">
+  &emsp;
+    <a href="https://www.tensorflow.org/" target="_blank"> 
+     <img alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40">
+   </a> 
+  &emsp;
+      <a href="https://pandas.pydata.org/ target="_blank"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+   </a>
+   &emsp;
+ 
 > ### Frameworks and Libraries
 
   <p align="left">
@@ -58,6 +69,21 @@
 
   </p>
 
+> ### Devops
+<p align="left">
+    &emsp;
+    <a href="https://aws.amazon.com/" target="_blank"> 
+     <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+   </a> 
+    &emsp;
+    <a href="https://azure.microsoft.com/en-in" target="_blank"> 
+     <img alt="AZURE" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+   </a> 
+  &emsp;
+      <a href="https://cloud.google.com/" target="_blank"> 
+     <img alt="Google Cloud" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"">
+  </a>
+  
 > ### Database and Cloud Hosting
 
   <p align="left">
