@@ -47,6 +47,10 @@
     <a href="https://nodejs.org/en/" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
    </a> 
+    &emsp;
+    <a href="https://www.djangoproject.com/" target="_blank"> 
+     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+   </a> 
   &emsp;
       <a href="https://discord.js.org/" target="_blank"> 
      <img alt="TypeScript" src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=black">
