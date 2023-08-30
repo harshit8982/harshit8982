@@ -31,7 +31,7 @@
   <p align="left">
   &emsp;
     <a href="https://www.python.org" target="_blank"> 
-     <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
    </a> 
   &emsp;
       <a href="https://www.typescriptlang.org/" target="_blank"> 
