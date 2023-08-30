@@ -40,8 +40,7 @@
    &emsp;
    
 
-  </p>
-  > ### Frameworks and Libraries
+> ### Frameworks and Libraries
 
   <p align="left">
     &emsp;
@@ -54,7 +53,8 @@
   </a>
 
   </p>
-  > ### Database and Cloud Hosting
+
+> ### Database and Cloud Hosting
 
   <p align="left">
 &emsp;
@@ -145,6 +145,7 @@
   </p>
 
 <hr/>
+
 ## Reach Me
 
 <a  href="https://discord.com/users/511156785202069514"  target="_blank">
@@ -152,6 +153,9 @@
 <img  width="50%"  align="center"  alt="Discord Status"  src="https://lanyard.cnrad.dev/api/511156785202069514">
 
 </a>
+
+
+
 
 
 
