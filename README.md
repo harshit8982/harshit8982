@@ -6,14 +6,15 @@
 <hr/>
 <h3 align="center">CSE Undergrad with a never-ending love for Problem Solving and a burning passion for Machine Learning and Data analysis. I am also a Day Trader :) I love talking to new people and discussing new ideas and projects.</h3>
 <hr/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit8982&label=Profile%20views&color=0e75b6&style=flat" alt="harshit8982" /> </p>
 
-## 👨‍🎓 Skills
+## 👨‍🎓 Key Notes
 
-- 🦾 Proficient in python
+- 🦾 Proficient in **`Python`** 🐍
 
 - 🫂 Teach Trading to People
   
-- 📸 Filmmaker
+- 😄 Self Taught **Developer**/Trader/Editor
 
 - 📽 Video Editor
 
@@ -30,9 +31,9 @@
 
   <p align="left">
   &emsp;
-    <a href="https://www.python.org" target="_blank"> 
-     <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
-   </a> 
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
   &emsp;
       <a href="https://nodejs.org/en/ target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -54,17 +55,20 @@
 > ### Frameworks and Libraries
 
   <p align="left">
+     <a href="https://www.djangoproject.com/" target="_blank"> 
+     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+   </a> 
     &emsp;
     <a href="https://nodejs.org/en/" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
    </a> 
-    &emsp;
-    <a href="https://www.djangoproject.com/" target="_blank"> 
-     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-   </a> 
   &emsp;
       <a href="https://discord.js.org/" target="_blank"> 
      <img alt="TypeScript" src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=black">
+  </a>
+  &emsp;
+      <a href="https://kafka.apache.org/" target="_blank"> 
+     <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
   </a>
 
   </p>
@@ -94,6 +98,12 @@
   &emsp;
       <a href="https://netlify.com/" target="_blank"> 
      <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+   &emsp;
+    <a href="https://www.postgresql.org/docs/"><img alt="PostgresSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+     &emsp;
+    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
   </a>
     &emsp;
       <a href="https://vercel.com/" target="_blank"> 
@@ -176,7 +186,17 @@
 
 <hr/>
 
-## Reach Me
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://discord.gg/Cw6RtdbRmH"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <br/>
+	<a href="mailto:shuklaharshit11@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/harshit8982"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/harshit-shukla-1b2941182/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/harshit_notfound/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+
 
 <a  href="https://discord.com/users/511156785202069514"  target="_blank">
 
@@ -184,6 +204,8 @@
 
 </a>
 
+- Credit: [harshit](https://github.com/harshit8982)
+- Last Edited on: 01/09/2023
 
 
 
